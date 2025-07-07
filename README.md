@@ -11,24 +11,24 @@
 # 🚀 Key Features:
 
 #### Core Functionality:
-  1.  ✅ OpenVPN Integration - Full OpenVPN support with auto-configuration
-  2.  ✅ Free VPN Servers - Built-in database of 5 free VPN providers
-  3.  ✅ Auto Server Selection - Intelligent server selection based on ping/load
-  4.  ✅ Command-Line Interface - Rich terminal interface with emojis and colors
+  1.  ✅ **OpenVPN Integration** - Full OpenVPN support with auto-configuration
+  2.  ✅ **Free VPN Servers** - Built-in database of 5 free VPN providers
+  3.  ✅ **Auto Server Selection** - Intelligent server selection based on ping/load
+  4.  ✅ **Command-Line Interface** - Rich terminal interface with emojis and colors
 
 #### Security & Privacy:
-  1.  ✅ Kill Switch - Automatic traffic blocking if VPN drops
-  2.  ✅ DNS Leak Protection - Custom DNS servers and leak prevention
-  3.  ✅ IPv6 Support - Full IPv6 leak protection
-  4.  ✅ WebRTC Leak Detection - Built-in leak testing
-  5.  ✅ AES-256-GCM Encryption - Enterprise-grade encryption
+  1.  ✅ **Kill Switch** - Automatic traffic blocking if VPN drops
+  2.  ✅ **DNS Leak Protection** - Custom DNS servers and leak prevention
+  3.  ✅ **IPv6 Support** - Full IPv6 leak protection
+  4.  ✅ **WebRTC Leak Detection** - Built-in leak testing
+  5.  ✅ **AES-256-GCM Encryption** - Enterprise-grade encryption
 
 #### Advanced Features:
-  1.  ✅ Tor Integration - Optional Tor proxy for additional anonymity
-  2.  ✅ Stealth Mode - Traffic obfuscation and evasion techniques
-  3.  ✅ DNS over HTTPS - Encrypted DNS queries
-  4.  ✅ Connection Monitoring - Automatic reconnection and health checks
-  5.  ✅ Performance Optimization - Network tuning and optimizations
+  1.  ✅ **Tor Integration** - Optional Tor proxy for additional anonymity
+  2.  ✅ **Stealth Mode** - Traffic obfuscation and evasion techniques
+  3.  ✅ **DNS over HTTPS** - Encrypted DNS queries
+  4.  ✅ **Connection Monitoring** - Automatic reconnection and health checks
+  5.  ✅ **Performance Optimization** - Network tuning and optimizations
 
 # 🎮 How to Use:
 
